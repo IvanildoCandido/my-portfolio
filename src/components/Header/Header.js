@@ -82,7 +82,6 @@ const Header = () => {
                 <Link
                   to="/contact"
                   className={'nav-link page-scroll ' + isActive('/contact')}
-                  href="#contact"
                 >
                   Contato
                 </Link>

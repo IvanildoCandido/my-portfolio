@@ -6,7 +6,7 @@ import './app.css';
 function App() {
   return (
     <BrowserRouter>
-      <div class="principal">
+      <div className="principal">
         <Routes />
       </div>
     </BrowserRouter>
