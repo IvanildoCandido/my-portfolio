@@ -1,0 +1,20 @@
+.principal {
+  height: 2000px;
+  background-color: rgb(175, 175, 175);
+}
+html {
+  overflow-x: hidden;
+  height: 100%;
+}
+body {
+  font-family: var(--thm-font);
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+}
+:root {
+  --thm-font: 'Poppins', sans-serif;
+  --thm-color: #496dff;
+  --thm-black: #2d3436;
+  --thm-white: #ffffff;
+}
